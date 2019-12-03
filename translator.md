@@ -1,6 +1,6 @@
 ## How to help in translating the app
 
-####The first step is to create a fork of the repository where you will make changes.
+#### The first step is to create a fork of the repository where you will make changes.
 ### Software requirements
 - Visual Studio 2017 or newer
 - [Multilingual App Toolkit Extension](https://marketplace.visualstudio.com/items?itemName=MultilingualAppToolkit.MultilingualAppToolkit-18308)
