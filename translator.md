@@ -30,6 +30,7 @@
 - All the text you have to translate is stored in the "Strings" tab below.
 - You can filter it out by using "State Filter" above.
 - The text is automatically in the "Translated" state when you write text into the translation section.
+**Different States**
 	- "Need Review" is when the text from en-US source is changed.
 	- "New" state is when the translation has not been translated yet.
 	- "Source" shows the original text of the string. 
